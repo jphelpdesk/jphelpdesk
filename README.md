@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="https://github.com/jphelpdesk/jphekpdesk/raw/main/assets/git.gif" alt="Oi, eu sou a Jean Pierre">
+  <img src="https://github.com/jphelpdesk/jphekpdesk/assets/git.gif" alt="Oi, eu sou a Jean Pierre">
 </p>
 <!--
 <h1 align="center">Ola 👋, Sou Jean Pierre</h1>
