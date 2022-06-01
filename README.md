@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="https://github.com/jphelpdesk/jphelpdesk/blob/master/assets/github.gif" alt="Oi, eu sou a Jean Pierre">
+  <img src="https://github.com/jphelpdesk/jphelpdesk/blob/master/assets/github2.gif" alt="Oi, eu sou a Jean Pierre">
 </p>
 
 <!--
