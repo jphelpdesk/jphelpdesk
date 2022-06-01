@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="https://github.com/jphelpdesk/jphelpdesk/blob/master/assets/github2.gif" alt="Oi, eu sou a Jean Pierre">
+  <img src="https://github.com/jphelpdesk/jphelpdesk/blob/master/assets/git_hub.gif" alt="Oi, eu sou a Jean Pierre">
 </p>
 
 <!--
@@ -8,7 +8,7 @@
 <h3 align="center">Profissional de Infraestrura e futuro Devops Enginner</h3>
 -->
 
-- Atuamente estou trabalhando de **Analista de Rede na ThomasGregSons**
+- Atuamente estou trabalhando de **Analista de Infraestrutura na ThomasGregSons**
 
 - 🌱 Estou aprendento sobre **Python, Ansible, Terraform, Preparatorio para certifcação AWS**
 
@@ -16,7 +16,7 @@
 
 - Minhas postagem estão no meu Blog [jphelpdesk.github.io/blog](jphelpdesk.github.io/blog)
 
-- 📫 Contano no meu email **jphelpdesk@outlook.com.br**
+- 📫 Contano no meu email **jeanpierreft@gmail.com**
 
 - Minhas experiencias Profissionais [https://www.linkedin.com/in/jeanpierrefernandestheodoro/](https://www.linkedin.com/in/jeanpierrefernandestheodoro/)
 
