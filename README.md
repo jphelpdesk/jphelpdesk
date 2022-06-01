@@ -14,7 +14,7 @@
 
 - 🤝 Tenho um projeto Pessoal para te ajudar [JPHELPDESK](https://jphelpdesk.github.io/)
 
-- Minhas postagem estão no meu Blog [jphelpdesk.github.io/blog](jphelpdesk.github.io/blog)
+- Minhas postagem estão no meu Blog [jphelpdesk.github.io/blog](https://jphelpdesk.github.io/blog/)
 
 - 📫 Contano no meu email **jeanpierreft@gmail.com**
 
