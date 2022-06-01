@@ -1,11 +1,13 @@
 
 <p align="center">
-  <img src="https://github.com/jphelpdesk/jphekpdesk/assets/git.gif" alt="Oi, eu sou a Jean Pierre">
+  <img src="https://github.com/jphelpdesk/jphelpdesk/blob/master/assets/github.gif" alt="Oi, eu sou a Jean Pierre">
 </p>
+
 <!--
 <h1 align="center">Ola 👋, Sou Jean Pierre</h1>
 <h3 align="center">Profissional de Infraestrura e futuro Devops Enginner</h3>
 -->
+
 - Atuamente estou trabalhando de **Analista de Rede na ThomasGregSons**
 
 - 🌱 Estou aprendento sobre **Python, Ansible, Terraform, Preparatorio para certifcação AWS**
