@@ -16,7 +16,7 @@
 
 - Minhas postagem estão no meu Blog [jphelpdesk.github.io/blog](https://jphelpdesk.github.io/blog/)
 
-- 📫 Contano no meu email **jeanpierreft@gmail.com**
+- 📫 Contato no meu email **jeanpierreft@gmail.com**
 
 - Minhas experiencias Profissionais [https://www.linkedin.com/in/jeanpierrefernandestheodoro/](https://www.linkedin.com/in/jeanpierrefernandestheodoro/)
 
