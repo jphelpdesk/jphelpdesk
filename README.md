@@ -1,26 +1,16 @@
+<h1 align="center">OlÁ 👋, Sou Jean Pierre</h1>
+<h3 align="center">Analista Cloud Computing</h3>
 
-<p align="center">
-  <img src="https://github.com/jphelpdesk/jphelpdesk/blob/master/assets/git_hub.gif" alt="Oi, eu sou a Jean Pierre">
-</p>
-
-<!--
-<h1 align="center">Ola 👋, Sou Jean Pierre</h1>
-<h3 align="center">Profissional de Infraestrura e futuro Devops Enginner</h3>
--->
-
-- Atuamente estou trabalhando de **Analista de Infraestrutura na ThomasGregSons**
-
-- 🌱 Estou aprendento sobre **Python, Ansible, Terraform, Preparatorio para certifcação AWS**
-
-- 🤝 Tenho um projeto Pessoal para te ajudar [JPHELPDESK](https://jphelpdesk.github.io/)
-
-- Minhas postagem estão no meu Blog [jphelpdesk.github.io/blog](https://jphelpdesk.github.io/blog/)
-
+- 👨‍💻 Profissional com ampla experiência em Infraestrutura e Redes, apaixonado por Tecnologia e Videogame 🎮.
+- 🌐 Atuamente estou trabalhando de **Analista Infraestrura Cloud na Cinnecta**, Trabalho com soluções de infraestrutura há **7** anos, focando em **cloud computing, docker, virtualização, windwos server, linux, Monitoração e Backup**.
+- 🚀 Atualmente, estou explorando e apredendo me especializado em tecnologias como: **AWS, GCP, Azure, Kubernetes, Python, Ansible, Terraform**, e sempre em busca de desafios empolgantes no mundo da TI.
+- 🕹️ Quando não estou trabalhando, você me encontrará mergulhado em mundos virtuais, explorando os mais recentes lançamentos de jogos ou experimentando novos títulos.
+- 🤝 Meu site pessoal, junto com postagem do meu blog [JPHELPDESK](https://jphelpdesk.github.io/)
 - 📫 Contato no meu email **jeanpierreft@gmail.com**
 
 - Minhas experiencias Profissionais [https://www.linkedin.com/in/jeanpierrefernandestheodoro/](https://www.linkedin.com/in/jeanpierrefernandestheodoro/)
 
-<h3 align="left">Vamos Bater um PAPO :</h3>
+<h3 align="left">Onde Me encontrar, Bora Bater um papo :</h3>
 <p align="left">
 <a href="https://twitter.com/helpdeskjp" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="helpdeskjp" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/jeanpierrefernandestheodoro" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jeanpierrefernandestheodoro" height="30" width="40" /></a>
