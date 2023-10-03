@@ -1,4 +1,4 @@
-<h1 align="center">OlÁ 👋, Sou Jean Pierre</h1>
+<h1 align="center">Olá 👋, Sou Jean Pierre</h1>
 <h3 align="center">Analista Cloud Computing</h3>
 
 - 👨‍💻 Profissional com ampla experiência em Infraestrutura e Redes, apaixonado por Tecnologia e Videogame 🎮.
